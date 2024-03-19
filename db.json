@@ -22,5 +22,27 @@
         }
     
     
+    ],
+
+    "user":[
+        {
+        "IdUser":"Usuario1",
+        "Password": "Usuario1"
+
+        },
+        {
+        "IdUser":"Usuario2",
+        "Password": "Usuario2"
+        },
+        {
+        "IdUser":"Usuario3",
+        "Password": "Usuario3"
+        },
+        {
+        "IdUser":"Usuario4",
+        "Password": "Usuario4"
+        }
+    
+    
     ]
 }
