@@ -3,22 +3,27 @@
         {
         "Id":1,
         "Descripción": "Mouse",
-        "Precio":"30.00"
+        "Precio":"30.00",
+        "Url":"https://www.aibitech.com/69211-large_default/mouse-inalambrico-logitech-mx-anywhere-3-6botones-laser-bluetooth-rosa.jpg"
         },
         {
         "Id":2,
         "Descripción": "Teclado",
-        "Precio":"70.00"
+        "Precio":"70.00",
+        "Url":"https://plazavea.vteximg.com.br/arquivos/ids/18758241-512-512/imageUrl_2.jpg"
         },
         {
         "Id":3,
         "Descripción": "Pantalla",
-        "Precio":"130.00"
+        "Precio":"130.00",
+        "Url":"https://m.media-amazon.com/images/I/714ap90dVSL._AC_SL1500_.jpg"
         },
         {
         "Id":4,
-        "Descripción": "Memoria RA,",
-        "Precio":"250.00"
+        "Descripción": "CPU",
+        "Precio":"250.00",
+        "Url":"https://image.made-in-china.com/202f0j00iBVYpEbfOUqJ/Segotep-Gank5-ATX-Desktop-Computer-Case-DIY-Rightside-Door-Opening-Gaming-Tempered-Glass-Gabinete-PC-Case-Gamer-Large-Chassis.jpg"
+
         }
     
     
